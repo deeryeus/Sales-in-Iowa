@@ -11,12 +11,14 @@ The process of creating the dimensional model was done in Power BI using Power Q
 ## Files
 
 The Power BI project files are available on Google Drive:
+
 https://drive.google.com/file/d/1iCJWiFThlxWwEDcwZOGCHL7wSbLQ5a0z/view?usp=sharing
 
 The original Kaggle dataset can be found on their website:
-https://www.kaggle.com/datasets/residentmario/iowa-liquor-sales
 
-- OR -
+https://www.kaggle.com/datasets/residentmario/iowa-liquor-sales
+**OR**
 
 Also available on Google Drive:
-- https://drive.google.com/file/d/1fn2770RMuUYg72NtW2jJ0KQcj_Wvr3vf/view?usp=sharing
+
+https://drive.google.com/file/d/1fn2770RMuUYg72NtW2jJ0KQcj_Wvr3vf/view?usp=sharing
