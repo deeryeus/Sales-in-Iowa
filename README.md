@@ -3,7 +3,7 @@
 Sales in Iowa is a data analysis project that organizes the Kaggle dataset *Iowa Liquor Sales* into a dimensional data model supported by facts and dimensions. By transforming the large, single-table dataset into a dimensional model, there are multiple benefits: 
 - Information is grouped into easily understood business categories, allowing technical and business users to understand the data better.
 - Performance is more efficient on the software by eliminating redundancy.
-- Calculations are optimized for analytics because relationships between tables are defined (DAX becomes much easier to write!).
+- Calculations are optimized for analytics because relationships between tables are defined (DAX becomes much easier to write!)
 
 
 The process of creating the dimensional model was done in Power BI using Power Query. 
